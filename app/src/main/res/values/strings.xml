@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="instructions">Instructions: Answer all questions. Questions with more than one answer give one point for each correct answer. Submit when finished.</string>
+    <string name="question1">Which 2 the following is a Quentin Tarantino Film?</string>
+    <string name="question2">What is Spiderman\'s middle name?</string>
+    <string name="question3">Brad Pitt was the star of Good Will Hunting.</string>
+    <string name="question4">Which Marvel Movie kicked off Phase 2?</string>
+    <string name="question5">What year did Lupita Nyong\'o win Best Supporting Actress?</string>
+    <string name="answer_q2">benjamin</string>
+    <string name="format_message">Scored: %1$d/%2$d!</string>
+</resources>
